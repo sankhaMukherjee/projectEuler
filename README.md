@@ -35,6 +35,6 @@ The solutions to the different problems are present in the following Notebooks:
 | Problem 19.ipynb    |   19,20          |
 | Problem 21.ipynb    |   21             |
 
-# Contributiong
+# Contributing
 
 If you have some suggestions or would wish to contribute, please feel free to send a pull request
