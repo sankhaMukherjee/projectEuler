@@ -34,6 +34,8 @@ The solutions to the different problems are present in the following Notebooks:
 | Problem 18.ipynb    |   18,67          |
 | Problem 19.ipynb    |   19,20          |
 | Problem 21.ipynb    |   21             |
+| Problem 22.ipynb    |   22             |
+| Problem 23.ipynb    |   23             |
 
 # Contributing
 
