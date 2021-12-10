@@ -18,29 +18,19 @@ The solutions are present in this Playlist: [Project Euler Workthrough](https://
 
 The solutions to the different problems are present in the following Notebooks:
 
-| Notebook            |  Problem numbers |
-|---------------------|------------------|
-| Problem 1.ipynb     |   1,2,3,4        |
-| Problem 5.ipynb     |   5,6,7          |
-| Problem 8.ipynb     |   8              |
-| Problem 9.ipynb     |   9              |
-| Problem 10.ipynb    |   10             |
-| Problem 11.ipynb    |   11             |
-| Problem 12.ipynb    |   12             |
-| Problem 13.ipynb    |   13             |
-| Problem 14.ipynb    |   14             |
-| Problem 15.ipynb    |   15,16          |
-| Problem 17.ipynb    |   17             |
-| Problem 18.ipynb    |   18,67          |
-| Problem 19.ipynb    |   19,20          |
-| Problem 21.ipynb    |   21             |
-| Problem 22.ipynb    |   22             |
-| Problem 23.ipynb    |   23             |
-| Problem 24.ipynb    |   24             |
-| Problem 25.ipynb    |   25             |
-| Problem 26.ipynb    |   26             |
-| Problem 27.ipynb    |   27             |
-| Problem 28.ipynb    |   28             |
+| Notebook            |  Problem numbers | Notebook            |  Problem numbers 
+|---------------------|------------------|---------------------|------------------|
+| Problem 1.ipynb     |   1,2,3,4        | Problem 18.ipynb    |   18,67          |
+| Problem 5.ipynb     |   5,6,7          | Problem 19.ipynb    |   19,20          |
+| Problem 8.ipynb     |   8              | Problem 21.ipynb    |   21             |
+| Problem 9.ipynb     |   9              | Problem 22.ipynb    |   22             |
+| Problem 10.ipynb    |   10             | Problem 23.ipynb    |   23             |
+| Problem 11.ipynb    |   11             | Problem 24.ipynb    |   24             |
+| Problem 12.ipynb    |   12             | Problem 25.ipynb    |   25             |
+| Problem 13.ipynb    |   13             | Problem 26.ipynb    |   26             |
+| Problem 14.ipynb    |   14             | Problem 27.ipynb    |   27             |
+| Problem 15.ipynb    |   15,16          | Problem 28.ipynb    |   28             |
+| Problem 17.ipynb    |   17             |                     |                  |
 
 # Contributing
 
