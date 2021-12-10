@@ -36,6 +36,11 @@ The solutions to the different problems are present in the following Notebooks:
 | Problem 21.ipynb    |   21             |
 | Problem 22.ipynb    |   22             |
 | Problem 23.ipynb    |   23             |
+| Problem 24.ipynb    |   24             |
+| Problem 25.ipynb    |   25             |
+| Problem 26.ipynb    |   26             |
+| Problem 27.ipynb    |   27             |
+| Problem 28.ipynb    |   28             |
 
 # Contributing
 
